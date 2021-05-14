@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+ul{
+   color: blue; 
+}
+h3,h2{
+    font-size: 25px;
+    color: red;
+}
+a{
+    font-size: 17px;
+}
+ul{
+    font-size: 17px;
+}
+p{
+    font-size: 16px;
+}
